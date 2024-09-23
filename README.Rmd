@@ -36,7 +36,7 @@ pak::pak("thgeorga/mypkg_theodora")
 
 print("hi theo")
 print("im confused")
-
+print("nvm i figured it out #genius #sosmart")
 ```
 
 
