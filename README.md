@@ -8,7 +8,7 @@
 [![R-CMD-check](https://github.com/thgeorga/mypkg_theodora/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/thgeorga/mypkg_theodora/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-Hello welcome to my R space
+Hello welcome to my R space goodbye
 
 ## Installation
 
