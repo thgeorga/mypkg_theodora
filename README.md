@@ -21,3 +21,13 @@ pak::pak("thgeorga/mypkg_theodora")
 ```
 
 ## hello
+
+``` r
+
+print("hi theo")
+#> [1] "hi theo"
+print("im confused")
+#> [1] "im confused"
+print("nvm i figured it out #genius #sosmart")
+#> [1] "nvm i figured it out #genius #sosmart"
+```

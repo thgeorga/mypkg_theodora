@@ -32,4 +32,17 @@ pak::pak("thgeorga/mypkg_theodora")
 
 
 
+
 ## hello
+
+
+```{r}
+
+print("hi theo")
+print("im confused")
+print("nvm i figured it out #genius #sosmart")
+
+```
+
+
+
